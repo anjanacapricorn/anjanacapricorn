@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anjanacapricorn
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning embedded systems and embedded C coding.
+- 👋 Hi, I’m Anjana
+- 👀 I’m a embedded software developer
+- 🌱 I’m currently upskilling in embedded systems and embedded C coding.
 - 💞️ I’m looking to collaborate on various embedded projects.
 - 📫 How to reach me - anjana.capricorn@gmail.com
 
